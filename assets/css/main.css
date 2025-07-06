@@ -459,7 +459,6 @@ h6 {
   background-color: #d3d3d3 !important; /* Override any inherited background */
   color: var(--contrast-color); /* Ensures text remains readable */
   font-size: 14px;
-
   position: relative;
 }
 
@@ -469,7 +468,7 @@ h6 {
 }
 
 .footer .social-links {
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 .footer .social-links a {
