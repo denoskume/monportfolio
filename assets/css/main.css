@@ -158,8 +158,8 @@ h6 {
 }
 
 .header .header-social-links {
-  padding-right: 15px;
-  margin-left: 20px;
+  padding-right: 8px;
+  margin-left: auto;
 }
 
 .header .header-social-links a {
@@ -209,7 +209,7 @@ h6 {
     display: flex;
     list-style: none;
     margin-left: auto;
-    gap: 5px;
+    
   }  
 
   .navmenu li {
