@@ -200,7 +200,6 @@ h6 {
     padding: 0;
     display: flex;
     align-items: center;
-    width: 100%;
   }
 
   .navmenu ul {
@@ -208,7 +207,7 @@ h6 {
     display: flex;
     list-style: none;
     margin-left: auto;
-    gap: 20px;
+    gap: 10px;
   }  
 
   .navmenu li {
